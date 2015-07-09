@@ -1,17 +1,15 @@
 # Exploratory Data Analysis by Coursera 
 ##Project 1
 
-The data set used for this project is available at:
+The data set used for this project is available at: UC Irvine Machine Learning Repository 
  
- UC Irvine Machine Learning Repository 
+The data set is : Household power consumption.
  
- The data set is : household power consumption.
- 
- Link: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+Link: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
 There are 4 plots along with 4 png files. They are summarized below.
 
-####The plots are made for time period of 01/02/2007 to 02/02/2007 Inclusive.
+####The plots are made for time period of 01/02/2007 to 02/02/2007 inclusive.
 
 plot1.png : Global Active Power Frequency {plot1.R}
 
